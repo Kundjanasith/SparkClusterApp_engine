@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "csv2json": "^1.1.0",
+    "csvtojson": "^1.0.0",
+    "express": "latest"
+  }
+}
