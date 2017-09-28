@@ -8,3 +8,5 @@ file_b <- file_b[1,]
 file_m <- file_m[1,]
 write.csv(file_b,file="MEMORY_API/file_b.csv",row.names=FALSE)
 write.csv(file_m,file="MEMORY_API/file_m.csv",row.names=FALSE)
+write.csv(file_b,file="file_b.csv",row.names=FALSE)
+write.csv(file_m,file="file_m.csv",row.names=FALSE)
